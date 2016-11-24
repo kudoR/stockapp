@@ -1,0 +1,14 @@
+myapp\AlertController.class
+myapp\CheckAlertsJob.class
+myapp\AlertTrigger.class
+myapp\StockDetailController.class
+myapp\persistence\AlertRepository.class
+myapp\persistence\StockDetailRepository.class
+myapp\User.class
+myapp\StockDetail.class
+myapp\UserController.class
+myapp\ImportStockDataJob.class
+myapp\SaveAlert.class
+myapp\App.class
+myapp\Alert.class
+myapp\persistence\UserRepository.class
